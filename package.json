@@ -1,0 +1,25 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "react practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjitSG/react-practice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sanjit Gawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjitSG/react-practice/issues"
+  },
+  "homepage": "https://github.com/SanjitSG/react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

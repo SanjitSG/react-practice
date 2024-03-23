@@ -1,6 +1,6 @@
 5945
 83C:\Users\91844\Desktop\react-practice\inception\node_modules\react-refresh\babel.js133555846259159388 0
-60C:\Users\91844\Desktop\react-practice\inception\package.json133556853642735000 0
+60C:\Users\91844\Desktop\react-practice\inception\package.json133556866324175868 0
 117C:\Users\91844\Desktop\react-practice\inception\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133555846271279303 0
 103C:\Users\91844\Desktop\react-practice\inception\node_modules\node-gyp-build-optional-packages\README.md133555846261324820 0
 89C:\Users\91844\Desktop\react-practice\inception\node_modules\posthtml-render\package.json133555846259791818 0
@@ -36,7 +36,7 @@
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\caniuse-lite\data\regions\DO.js133555846271776642 0
 107C:\Users\91844\Desktop\react-practice\inception\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133555846260516355 0
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\@parcel\workers\src\cpuCount.js133555846263218893 0
-52C:\Users\91844\Desktop\react-practice\inception\dist133556863682042275 1
+52C:\Users\91844\Desktop\react-practice\inception\dist133556866330887104 1
 81C:\Users\91844\Desktop\react-practice\inception\node_modules\posthtml-render\dist133555846261141238 1
 101C:\Users\91844\Desktop\react-practice\inception\node_modules\@parcel\runtime-browser-hmr\package.json133555846261996767 0
 96C:\Users\91844\Desktop\react-practice\inception\node_modules\css-tree\lib\syntax\function\var.js133555846271508762 0
@@ -2983,7 +2983,7 @@
 117C:\Users\91844\Desktop\react-practice\inception\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\supports.js133555846271234117 0
 102C:\Users\91844\Desktop\react-practice\inception\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs133555846266958742 0
 107C:\Users\91844\Desktop\react-practice\inception\node_modules\csso\node_modules\css-tree\lib\parser\index.js133555846270478898 0
-70C:\Users\91844\Desktop\react-practice\inception\dist\index.7826abd7.js133556863681956156 0
+70C:\Users\91844\Desktop\react-practice\inception\dist\index.7826abd7.js133556866330749459 0
 116C:\Users\91844\Desktop\react-practice\inception\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133555846270958531 0
 81C:\Users\91844\Desktop\react-practice\inception\node_modules\braces\lib\expand.js133555846261760024 0
 110C:\Users\91844\Desktop\react-practice\inception\node_modules\csso\node_modules\css-tree\lib\parser\sequence.js133555846271152587 0
@@ -3954,7 +3954,7 @@
 80C:\Users\91844\Desktop\react-practice\inception\node_modules\ansi-styles\license133555846258648354 0
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\caniuse-lite\data\regions\BJ.js133555846267332769 0
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\caniuse-lite\data\regions\BO.js133555846267518760 0
-63C:\Users\91844\Desktop\react-practice\inception\dist\index.html133556853997320890 0
+63C:\Users\91844\Desktop\react-practice\inception\dist\index.html133556866329438337 0
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\caniuse-lite\data\regions\BR.js133555846267634984 0
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\caniuse-lite\data\regions\CA.js133555846268176228 0
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\caniuse-lite\data\regions\CG.js133555846268412301 0
@@ -5943,4 +5943,4 @@
 92C:\Users\91844\Desktop\react-practice\inception\node_modules\.bin\update-browserslist-db.ps1133555846278706229 0
 81C:\Users\91844\Desktop\react-practice\inception\node_modules\process\package.json133556853641918857 0
 78C:\Users\91844\Desktop\react-practice\inception\node_modules\process\README.md133556853641944252 0
-74C:\Users\91844\Desktop\react-practice\inception\dist\index.7826abd7.js.map133556863682032192 0
+74C:\Users\91844\Desktop\react-practice\inception\dist\index.7826abd7.js.map133556866330867002 0

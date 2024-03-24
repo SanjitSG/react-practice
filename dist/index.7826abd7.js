@@ -2956,30 +2956,10 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
+// React Element
 const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-    id: "parent"
-}, [
-    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-        id: "child"
-    }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-            id: "heading"
-        }, "im heading \uD83D\uDE80"),
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-            id: "heading"
-        }, "im heading2")
-    ]),
-    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-        id: "child2"
-    }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-            id: "heading"
-        }, "im heading"),
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-            id: "heading"
-        }, "im heading2")
-    ])
-]);
+    id: "heading"
+}, "im React Heading \uD83D\uDE80");
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(heading);
 
